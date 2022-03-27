@@ -1,6 +1,6 @@
 # House_Price_Prediction
 
-The reporsitory contains the details about the sample dataset for predicting the housing price for which solution one of the possible solution has been provided using Machine learning approach as below 
+The repository contains the details about the sample dataset for predicting the housing price for which one of the possible solution has been provided using Machine learning approach
 
 ## The repository contains :
 
